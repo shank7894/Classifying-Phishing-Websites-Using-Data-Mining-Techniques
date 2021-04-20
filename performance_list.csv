@@ -1,0 +1,12 @@
+,Model,AUC,Accuracy(%)
+1,KNN,0.975035823,93.05
+2,Logistic Regression (PCA),0.962171997,90.375
+3,Logistic Regression,0.983244034,94.5
+4,Naive Bayes (PCA),0.876928724,71.125
+5,Classification Tree (PCA),0.883643237,86.3
+6,Classification Tree,0.960858574,94.5
+7,Random Forest (PCA),0.987085167,93.875
+8,Random Forest,0.998671199,98.35
+9,SVM (PCA),0.96090908,90.775
+10,SVM,0.983473814,94.3
+11,Artificial Neural Net (PCA),0.970019285,92.65
